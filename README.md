@@ -25,9 +25,9 @@ The goal is to scrap a decent amount of fake and original images, clean the imag
 ## Table of content
 
 - [Requirements](#Requirements)
-- [Scrapping Data](#Scrapping Data)
-- [Cleaning Data](#Cleaning Data)
-- [Training the Model](#Training the Model)
+- [Scrapping Data](#Scrapping)
+- [Cleaning Data](#Cleaning)
+- [Training the Model](#Training)
 
 ## Requirements
 
