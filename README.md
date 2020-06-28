@@ -61,7 +61,7 @@ The goal is to scrap a decent amount of fake and original images, clean the imag
 
 ### Real & Fake Images 
 
-[notebook]([https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Filter%20Data.ipynb](https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Filter Data.ipynb))
+[notebook](https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Filter%20Data.ipynb)
 
 - Used Jupyter notebook widgets to create a widget with buttons so that I can move images with a single click to their corresponding folders
 - **Buttons**
@@ -77,7 +77,7 @@ The goal is to scrap a decent amount of fake and original images, clean the imag
 
 ### Later Images / Collage images of both fake and real images
 
-[notebook]([https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Fix%20Later%20data.ipynb](https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Fix Later data.ipynb))
+[notebook]([https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Fix%20Later%20data.ipynb])
 
 - The code shows a window with the collage image
 - We then select the area of the image using the mouse
@@ -91,7 +91,7 @@ The goal is to scrap a decent amount of fake and original images, clean the imag
 
 ## Training the Model
 
-[notebook]([https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Training%20a%20model.ipynb](https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Training a model.ipynb))
+[notebook]([https://github.com/moaaztaha/Faceapp-Gender-Swap-Detection/blob/master/Training%20a%20model.ipynb)
 
 I used FASTAI to train my models
 
@@ -127,4 +127,4 @@ I used FASTAI to train my models
 
 - The model had only 2 mistakes on the validation set which are  the first 2 images (keep in mind that the validation set was quite small)
 
-![image-20200628134201988](/media/kelwa/DEV/Code/faceapp/imgs/confusion_matrix.png)
+![image-20200628134201988](imgs/confusion_matrix.png)
